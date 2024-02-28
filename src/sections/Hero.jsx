@@ -5,7 +5,7 @@ function Hero() {
   return (
     <div className="flex flex-col items-center pt-8 md:flex-row">
       <div>
-        <img src={leftimg} alt="" width={300} className="md:w-[1400px]" />
+        <img src={leftimg} alt="" width={300} className="md:w-[1000px]" />
       </div>
       <div className="text-lg text-gray-800">
         <h3 className=" font-bold py-4">
